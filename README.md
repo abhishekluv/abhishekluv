@@ -9,28 +9,28 @@ My name is Abhishek Luv. I am a passionate and experienced .NET trainer with a s
 ## Skills
 
 - **Programming Languages:** C#
-- **Web Development:** ASP.NET Core MVC, ASP.NET Core RESTful APIs, MVC, Entity Framework, Entity Framework Core
+- **Web Development:** ASP.NET Core MVC, ASP.NET Core RESTful APIs, MVC, Entity Framework, Entity Framework Core, LINQ
 - **Frontend Technologies:** HTML, JavaScript, Angular, Bootstrap
 - **Database:** SQL Server, MySQL
 - **Tools:** Visual Studio, Visual Studio Code
-- **Source Control:** Git, GitHub, BitBucket
+- **Source Control:** Git Extensions, Git, GitHub, BitBucket
 
 ## Other Technical Know-How's I have acquired with time
 
+- Memory and SQL Server Distributed Cache
 - DTO's & AutoMapper
 - Invesion of Control and Dependency Injection
 - ASP.NET Core Identity: Authentication and Authorization
 - Password Hashing: Bcrypt and PBKDF2
 - JWT Token with ASP.NET Core Web API
 - OWASP Security Basics
+- ngrok & localhost.run: Put a locally running HTTP, HTTPS or TLS app on the internet
 - ASP.NET Web Hosting experience with different hosting providers
 - Entity Framework data access using Repository and Unit of work Pattern (Non-generic and Generic)
 - Dapper (Micro-ORM)
 - Onion Architecture
-- DNS
 - CDN: Amazon Cloudfront and S3
 - Domain sharding
-- ngrok & localhost.run: Put a locally running HTTP, HTTPS or TLS app on the internet
 - Networking basics
 - SEO
 - Linux basics
