@@ -20,7 +20,7 @@ My name is Abhishek Luv. I am a passionate and experienced .NET trainer with a s
 - OWASP Security Basics
 - Linux basics
 - Entity Framework data access using Repository and Unit of work Pattern (Non-generic and Generic)
-- Dapper (Micr-ORM)
+- Dapper (Micro-ORM)
 - Onion Architecture
 - ASP.NET Web Hosting experience with different hosting providers
 - DNS
