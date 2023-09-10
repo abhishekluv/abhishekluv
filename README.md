@@ -15,13 +15,18 @@ My name is Abhishek Luv. I am a passionate and experienced .NET trainer with a s
 - **Tools:** Visual Studio, Visual Studio Code
 - **Source Control:** Git, GitHub, BitBucket
 
-## Other Technical Know-How I have acquired with time
+## Other Technical Know-How's I have acquired with time
 
 - OWASP Security Basics
 - Linux basics
-- EF data access using Repository and Unit of work Pattern (Non-generic and Generic)
+- Entity Framework data access using Repository and Unit of work Pattern (Non-generic and Generic)
+- Dapper (Micr-ORM)
 - Onion Architecture
 - ASP.NET Web Hosting experience with different hosting providers
 - DNS
 - CDN: Amazon Cloudfront and S3
 - Domain sharding
+- ngrok & localhost.run: Put a locally running HTTP, HTTPS or TLS app on the internet
+- Networking basics
+- SEO
+
