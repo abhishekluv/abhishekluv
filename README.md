@@ -17,16 +17,20 @@ My name is Abhishek Luv. I am a passionate and experienced .NET trainer with a s
 
 ## Other Technical Know-How's I have acquired with time
 
+- DTO's & AutoMapper
+- Invesion of Control and Dependency Injection
+- ASP.NET Core Identity: Authentication and Authorization
+- Password Hashing: Bcrypt and PBKDF2
+- JWT Token with ASP.NET Core Web API
 - OWASP Security Basics
-- Linux basics
+- ASP.NET Web Hosting experience with different hosting providers
 - Entity Framework data access using Repository and Unit of work Pattern (Non-generic and Generic)
 - Dapper (Micro-ORM)
 - Onion Architecture
-- ASP.NET Web Hosting experience with different hosting providers
 - DNS
 - CDN: Amazon Cloudfront and S3
 - Domain sharding
 - ngrok & localhost.run: Put a locally running HTTP, HTTPS or TLS app on the internet
 - Networking basics
 - SEO
-
+- Linux basics
