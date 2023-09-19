@@ -19,7 +19,7 @@ My name is Abhishek Luv. I am a passionate and experienced .NET trainer with a s
 
 ## Other Technical Know-How's I have acquired with time
 
-- Memory and SQL Server Distributed Cache
+- ASP.NET Core Memory and SQL Server Distributed Cache
 - DTO's & AutoMapper
 - Invesion of Control and Dependency Injection
 - ASP.NET Core Identity: Authentication and Authorization
