@@ -47,4 +47,4 @@ My name is (Abby) Abhishek Luv. I am a passionate and experienced .NET trainer w
 
 - Synthwave
 - Jazz
-- Indian Classical
+- Indian Classical Music
