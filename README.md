@@ -36,3 +36,15 @@ My name is (Abby) Abhishek Luv. I am a passionate and experienced .NET trainer w
 - Networking basics
 - SEO
 - Linux basics
+
+## Games I like and Play
+
+- NES Retro Games using RetroPie: Mario, Contra, Donkey Kong
+- GTA
+- AmongUS
+
+## Music
+
+- Synthwave
+- Jazz
+- Indian Classical
