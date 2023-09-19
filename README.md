@@ -12,7 +12,7 @@ My name is Abhishek Luv. I am a passionate and experienced .NET trainer with a s
 
 - **Programming Languages:** C#
 - **Web Development:** ASP.NET Core MVC, ASP.NET Core RESTful APIs, MVC, Entity Framework, Entity Framework Core, LINQ
-- **Frontend Technologies:** HTML, JavaScript, Angular, Bootstrap
+- **Frontend Technologies:** HTML, TypeScript, Angular, Bootstrap
 - **Database:** SQL Server, MySQL
 - **Tools:** Visual Studio, Visual Studio Code
 - **Source Control:** Git Extensions, Git, GitHub, BitBucket
