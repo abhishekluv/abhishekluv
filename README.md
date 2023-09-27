@@ -7,6 +7,7 @@ My name is (Abby) Abhishek Luv. I am a passionate and experienced .NET trainer w
 - Fast learner
 - Interested to learn new technologies
 - Comfortable with Windows and Linux operating systems
+- Willing to relocate for the right position (I have a valid Passport)
 
 ## Skills
 
