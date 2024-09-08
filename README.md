@@ -1,4 +1,4 @@
-# .NET Trainer Turned Developer | ASP.NET Core Enthusiast | Open to New Opportunities
+# Self-taught .NET Trainer/Developer | Open to New Opportunities
 
 ## About Me
 
