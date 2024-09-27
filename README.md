@@ -1,4 +1,4 @@
-# Self-taught Freelance .NET Developer | Open to New Opportunities
+# Self-taught Freelance .NET Developer
 
 ## About Me
 
