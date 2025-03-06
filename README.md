@@ -1,4 +1,4 @@
-# Self-taught Freelance .NET Developer
+# Full Stack .NET Web Developer
 
 ## About Me
 
