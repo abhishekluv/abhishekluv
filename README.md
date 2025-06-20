@@ -1,4 +1,4 @@
-# Hi, I'm Abhishek – Full-Stack .NET Developer & Freelance Consultant
+# Hi, I'm Abhishek – Full-Stack .NET Freelance Consultant
 
 I'm a full-stack .NET freelance consultant with 14+ years of experience designing and developing real-world, production-ready web applications using **ASP.NET Core**, **Angular**, **EF Core**, and **Azure**.
 
