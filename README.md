@@ -14,7 +14,7 @@
 
 ---
 
-## About Me
+### About Me
 - Fast learner
 - Interested to learn new technologies
 - Comfortable with Windows and Linux operating systems
