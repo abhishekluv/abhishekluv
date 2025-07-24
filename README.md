@@ -14,9 +14,17 @@
 
 ---
 
+## About Me
+
+- Fast learner
+- Interested to learn new technologies
+- Comfortable with Windows and Linux operating systems
+- Willing to relocate for the right position (I have a valid Passport)
+
+---
+
 ### Why Work With Me
 - Proven track record delivering **multi‑tenant SaaS**, **microservices**, and **enterprise portals**  
-- Strong communicator, mentor and collaborative partner across time zones and multi‑disciplinary teams  
 - Always learning and adapting—embracing new tools, frameworks and methodologies to drive business value  
 
 ---
