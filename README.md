@@ -22,12 +22,6 @@
 
 ---
 
-### Why Work With Me
-- Proven track record delivering **multi‑tenant SaaS**, **microservices**, and **enterprise portals**  
-- Always learning and adapting—embracing new tools, frameworks and methodologies to drive business value  
-
----
-
 **Actively seeking new opportunities** – let’s connect!
 
 Feel free to explore my projects below or [reach out](mailto:abhishek.luv@outlook.com) to discuss how I can help bring your next initiative to life.  
