@@ -30,7 +30,7 @@
 - JWT, role/policy-based auth
 - Keeping an eye on OWASP Top 10
 
-I don’t claim to know everything here perfectly — these are the tools and ideas I’ve used the most and keep improving at.
+These are the tools and ideas I’ve used the most and keep improving at.
 
 ---
 
