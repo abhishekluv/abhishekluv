@@ -36,16 +36,6 @@ I don’t claim to know everything here perfectly — these are the tools and id
 
 ---
 
-## How I Like to Work
-
-- Prefer **simple designs first**, then evolve when there is a real need.
-- Care about **clear boundaries** (application vs domain vs infrastructure).
-- Try to keep **tests, logging, and error handling** in place from the start.
-- Comfortable on both **Windows and Linux**.
-- Always open to learning from teammates, code reviews, and production feedback.
-
----
-
 ## About Me
 
 - Based in India, open to **remote** or **relocation** for the right opportunity (valid passport).
