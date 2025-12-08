@@ -43,6 +43,6 @@ I don’t claim to know everything here perfectly — these are the tools and id
 
 ---
 
-**Open to new opportunities and collaborations**  
+**Open to new opportunities**  
 If you’d like to discuss a role, feel free to reach out:  
 [abhishek.luv@outlook.com](mailto:abhishek.luv@outlook.com)
