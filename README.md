@@ -1,6 +1,6 @@
 # Hi, I’m Abhishek
 
-**Full-Stack .NET Developer & Freelance Consultant** with ~14 years of hands-on experience building and maintaining web applications for small teams and enterprise clients.
+**Full-Stack .NET Developer (Freelance/Contract)** with ~14 years of hands-on experience building and maintaining web applications for small teams and enterprise clients.
 
 ---
 
