@@ -9,7 +9,7 @@
 **Backend**
 - ASP.NET Core (Web API, MVC, Razor, Minimal APIs)
 - EF Core, Dapper
--  REST API design
+- REST API design
 
 **Frontend**
 - Angular • TypeScript
@@ -28,16 +28,16 @@
 - DDD & CQRS (where it makes sense)
 - SOLID, separation of concerns
 - JWT, role/policy-based auth
-- Keeping an eye on OWASP Top 10
+- Awareness of OWASP Top 10
 
-These are the tools and ideas I’ve used the most and keep improving at.
+These are the tools and practices I use most often and continue to improve through real-world work.
 
 ---
 
 ## About Me
 
 - Based in India, open to **remote** or **relocation** for the right opportunity (valid passport).
-- Always trying to balance “getting it done” with “keeping it maintainable”.
+- I value pragmatic solutions—balancing delivery speed with long-term maintainability.
 
 ---
 
